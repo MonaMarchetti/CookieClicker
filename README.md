@@ -19,7 +19,7 @@ Addiction assurée.
 
 ## Date :
 
-Effectué entre le 7 et le 14 février 2019, en tant que stagiaires @ BeCode
+Effectué entre le 7 et le 14 février 2019, en tant que stagiaires @ [BeCode](https://github.com/becodeorg)
 
 ## Langages utilisés :
 
