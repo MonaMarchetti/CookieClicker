@@ -40,4 +40,4 @@ Terminé
 
 ## Aperçu du jeu :
 
-![Apercu jeu](img/jeu.png)
+![Apercu jeu](img/ScreenshotCookieClicker.png)
