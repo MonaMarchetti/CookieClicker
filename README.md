@@ -1,23 +1,25 @@
 # CookieClicker
 
-Réalisé le principe du jeu CookieClicker.
+Une version stellaire du jeu Cookie Clicker.
 
 ## Pincipe du jeu :
 
-Fais décoler la fusée
+Clique sur la fusée pour gagner des points.
 
-Plus tu cliques, plus tu gagnes !!!
+En augmentant ton score, tu as la possibilité de débloquer de plus en plus de références geek.
+
+Addiction assurée.
 
 ## Collaborateurs :
 
-+ Weiss Dorothée
-+ Guy DJendo
-+ Mona Marchetti
-+ Jean Philippe Scheppers
++ [Guy Djendo](https://github.com/Ho-Be-One)
++ [Mona Marchetti](https://github.com/MonaMarchetti)
++ [Jean Philippe Scheppers](https://github.com/jpscheppers)
++ [Dorothée Weiss](https://github.com/doropro)
 
 ## Date :
 
-Effectué la semaine du 7 au 14 février 2019 en tant que stagiaires chez BeCode
+Effectué entre le 7 et le 14 février 2019, en tant que stagiaires @ BeCode
 
 ## Langages utilisés :
 
@@ -32,9 +34,9 @@ Terminé
 
 ## Liens utiles :
 
-lien des consignes : <https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/coockie-clicker>
++ [Lien vers les consignes](https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/coockie-clicker)
 
-lien github page : <https://jpscheppers.github.io/CookieClicker/>
++ [Lien vers la GitHub Page](https://jpscheppers.github.io/CookieClicker/)
 
 ## Aperçu du jeu :
 
